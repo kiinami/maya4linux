@@ -7,6 +7,10 @@ This repository contains scripts and instructions to help install and run Autode
 For now it only supports Maya 2024 using Docker or Nix.
 
 
+> **🚨 Help Wanted! 🚨**
+>
+> We are currently working to package Maya 2026.2 for Linux. If you have experience, ideas, or just want to contribute, **all help is welcome!** Please open an issue or pull request to join the effort.
+
 ## How to use it
 
 first, you need to [download](https://manage.autodesk.com/products)  the official Autodesk Maya archive and extract it at the root of this repository.
