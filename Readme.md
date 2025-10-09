@@ -65,3 +65,4 @@ Remark:
 - For Maya to start, you need to have a folder `/usr/tmp` writable by your user.
 - the insecure option is because of openssl-1.1.1, needed by Maya
 - To check that maya was register, run `NIXPKGS_ALLOW_INSECURE=1 nix run --impure .#adskLicensingInstHelper list`
+- You can also start a development shell with `NIXPKGS_ALLOW_INSECURE=1 nix develop --impure` and run `maya2024` and `AdskLicensingService13` commands directly.
